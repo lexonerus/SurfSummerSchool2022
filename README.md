@@ -5,7 +5,7 @@
 
 ![GitHub](https://img.shields.io/github/followers/lexonerus?label=Follow&style=social)
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCNp8ItQbZqAz97ACiVEe62g?label=Subscribe&style=social)
-[![Xcode](https://img.shields.io/badge/Xcode-13)]()
+[![Xcode](https://img.shields.io/badge/Xcode-13-blue)]()
 
 ## Описание
 > Две недели мы с вами вместе будем создавать приложение на Swift, познавать тонкости работы с архитектурой и данными.
