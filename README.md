@@ -32,7 +32,7 @@
 🏄 12 августа - Викторина и подведение итогов
 
 ## Материалы к занятиям
-**День 1** - [Презентация и тезисы](https://github.com/lexonerus/SurfSummerSchool2022/tree/main/Day-1) ✅
+**День 1** - [Презентация и тезисы](https://github.com/lexonerus/SurfSummerSchool2022/tree/main/Day-1)
 
 ## Домашние задания
-**День 1** - Заполнить [анкету участника](https://docs.google.com/forms/d/e/1FAIpQLScV8rLKYTJuuwI_Ez-Rm2luWJ7HoGuKVy0V4ACpavI0cdZ2ew/viewform)
+**День 1** - Заполнить [анкету участника](https://docs.google.com/forms/d/e/1FAIpQLScV8rLKYTJuuwI_Ez-Rm2luWJ7HoGuKVy0V4ACpavI0cdZ2ew/viewform) ✅
