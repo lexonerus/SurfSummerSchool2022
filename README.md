@@ -30,4 +30,4 @@
 
 ## Домашние задания
 - **День 1** - Заполнить [анкету участника](https://docs.google.com/forms/d/e/1FAIpQLScV8rLKYTJuuwI_Ez-Rm2luWJ7HoGuKVy0V4ACpavI0cdZ2ew/viewform) ✅
-- **День 2** - Инициализировать проект, сделать launchscreen
+- **День 2** - Инициализировать проект, сделать launchscreen ✅
