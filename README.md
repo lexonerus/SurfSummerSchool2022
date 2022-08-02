@@ -11,6 +11,7 @@
 > Две недели мы с вами вместе будем создавать приложение на Swift, познавать тонкости работы с архитектурой и данными.
 
 [Основнои реппозитории летнеи школы от Surf](https://github.com/surfstudio/Surf-iOS-SummerSchool2022)
+[Мой проект](https://github.com/lexonerus/SurfSummerSchoolProject)
 
 ## Расписание
 - 1 августа  - Вводная лекция
