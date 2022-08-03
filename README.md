@@ -29,7 +29,9 @@
 ## Материалы к занятиям
 - **День 1** - [Презентация и тезисы](https://github.com/lexonerus/SurfSummerSchool2022/tree/main/Day-1), [запись лекции](https://drive.google.com/drive/folders/1aaJVUuu-q-qeN5rm67NOMK1EMu55fp_i?usp=sharing)
 - **День 2** - [Тезисы, презентация, полезные материалы](https://github.com/lexonerus/SurfSummerSchool2022/tree/main/Day-2)
+- **День 3** - [Тезисы, презентация, полезные материалы](https://github.com/lexonerus/SurfSummerSchool2022/tree/main/Day-3)
 
 ## Домашние задания
 - **День 1** - Заполнить [анкету участника](https://docs.google.com/forms/d/e/1FAIpQLScV8rLKYTJuuwI_Ez-Rm2luWJ7HoGuKVy0V4ACpavI0cdZ2ew/viewform) ✅
 - **День 2** - Инициализировать проект, сделать launchscreen ✅
+- **День 3** - Разобраться с NavigationBar, прикрутить кнопку поиска, обработать нажатие, но ничего пока не показывать ✅
