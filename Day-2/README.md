@@ -4,6 +4,8 @@
 
 [Ссылка на презентацию](https://drive.google.com/file/d/1sPCwX125JLwIk0mMlaVKiTc7yL6IXM9C/view?usp=sharing)
 
+[Запись лекции](https://drive.google.com/file/d/1gqaX19_Geha9VbHifzBiVUttcxPuE2yj/view?usp=sharing)
+
 ## Полезные ссылки
 🔥 [Подробно о Xcode](https://developer.apple.com/documentation/xcode#//apple_ref/doc/uid/TP40010215-CH24-SW1)
 

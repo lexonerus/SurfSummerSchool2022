@@ -2,6 +2,8 @@
 
 [Ссылка на презентацию](https://drive.google.com/file/d/1JLTCTFzgP1OVC_ISHro61o0EpLzJ1ZqA/view?usp=sharing)
 
+[Запись лекции](https://drive.google.com/file/d/1wRk3mLx33fDUqIlLvkDh_Q_zLx8LQEQU/view?usp=sharing)
+
 ## Основные тезисы
 Дмитрий Высоцкий
 - нативное направлени Surf

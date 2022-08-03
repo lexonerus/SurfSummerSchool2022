@@ -2,6 +2,8 @@
 
 [Ссылка на презентацию](https://drive.google.com/file/d/1aA-PQ7VGVPh_3WeqSybaMkpsArEovKGK/view?usp=sharing)
 
+[Запись лекции](https://drive.google.com/file/d/1_jKPz3j3OKfX52Ghev9YXdFihhED9guy/view?usp=sharing)
+
 >Сегодня было круто! Спасибо за вашу активность ❤️
 Мы узнали об основных ViewController-ах и их LifeCyrcle. Изучили основные контейнеры хранения и как они используются для навигации. Реализовали свой TabBar.
 
