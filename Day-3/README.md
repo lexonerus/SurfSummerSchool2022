@@ -14,6 +14,7 @@
 - [Основы мобильной навигации](https://vc.ru/flood/24327-navigationpatterns)
 - [I/UX Design Glossary. Navigation Elements](https://uxplanet.org/ui-ux-design-glossary-navigation-elements-b552130711c8)
 
+# Основные тезисы
 
 ## Виды контроллеров
 UIView
