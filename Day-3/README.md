@@ -1,6 +1,6 @@
 # День 3. Инициализация экранов.
 
-[Ссылка на презентацию](https://drive.google.com/file/d/1sPCwX125JLwIk0mMlaVKiTc7yL6IXM9C/view?usp=sharing)
+[Ссылка на презентацию](https://drive.google.com/file/d/1aA-PQ7VGVPh_3WeqSybaMkpsArEovKGK/view?usp=sharing)
 
 >Сегодня было круто! Спасибо за вашу активность ❤️
 Мы узнали об основных ViewController-ах и их LifeCyrcle. Изучили основные контейнеры хранения и как они используются для навигации. Реализовали свой TabBar.
