@@ -14,15 +14,15 @@
 - [Статья про взаимодействие с сетью в iOS из habr.ru](https://habr.com/ru/post/414359/)
 - [URLSession + Combine, так же от Apple](https://developer.apple.com/documentation/foundation/urlsession/processing_url_session_data_task_results_with_combine)
 
-###Decoding
+### Decoding
 - [Туториал по декодингу данных  от Apple](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types)
 - [Гайд по Codable](https://benscheirman.com/2017/06/swift-json/)
 - [Статья про парсинг данных в iOS](https://habr.com/ru/post/414221/)
 
-###Про сеть
+### Про сеть
 [Про REST](https://medium.com/@andr.ivas12/rest-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC-%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%BC-90a0bca0bc78)
 
-##Спикер:
+## Спикер:
 Илья Князьков
 пришел в Серф после подобной школы
 
