@@ -1,4 +1,4 @@
-# День 6
+# День 6. Сетевой слой.
 
 [Ссылка на презентацию](https://drive.google.com/file/d/1gPHkUr72QVXA23lF7796KAde5jRPfoTU/view?usp=sharing)
 
